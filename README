@@ -3,7 +3,7 @@ RUST/HTML5 CANVAS GAME TEMPLATE
 
 Making HTML5 Canvas games with Rust.
 
-This is actually the *shameless* ripped off version of [Matthew Collins Ludum Dare 38 submission](https://gitlab.com/Thinkofname/ld38).
+This is actually the *shameless* ripped off version of [Matthew Collins's Ludum Dare 38 submission](https://gitlab.com/Thinkofname/ld38).
 
 For development, run:
 

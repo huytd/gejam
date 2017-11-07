@@ -1,0 +1,16 @@
+RUST/HTML5 CANVAS GAME TEMPLATE
+===============================
+
+Making HTML5 Canvas games with Rust.
+
+This is actually the *shameless* ripped off version of [Matthew Collins Ludum Dare 38 submission](https://gitlab.com/Thinkofname/ld38).
+
+For development, run:
+
+    $ ./watch.sh
+
+For building and publishing, run:
+
+    $ ./build-wasm-release.sh
+
+You need to add WASM build target for Rust as well.
